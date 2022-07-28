@@ -1,0 +1,2 @@
+2022-07-28	19:08:04	1019c1cb-6a05-478a-87d2-525c750bcb5c	log event emitted
+2022-07-28	19:08:19	01b42c01-ec99-4e40-bfc3-79a0c36f2419	log event emitted
